@@ -4,8 +4,6 @@
 
 I create tech content, mostly about Web Development , **but** I also talk about other topics than coding.
 
-I managed to create an online presence with my [Blog](https://catalins.tech) and [YouTube](https://catalins.tech/youtube) channel, which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
-
 ---
 
 🧰 Toolbox
