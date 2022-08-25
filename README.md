@@ -2,11 +2,7 @@
 
 ---
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl1IRCSmm74qhcFNPTHcbMg?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/catalinmpit?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=catalinmpit) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCl1IRCSmm74qhcFNPTHcbMg?label=Total%20views%20on%20my%20channel&style=social)](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg?sub_confirmation=1)
-
-A Software Engineer specializing in JavaScript technologies and AWS. Professional experience with the technologies listed in the **toolbox** below.
-
-I create tech content, mostly about Web Development and JavaScript, **but** I also talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
+I create tech content, mostly about Web Development , **but** I also talk about other topics than coding.
 
 I managed to create an online presence with my [Blog](https://catalins.tech) and [YouTube](https://catalins.tech/youtube) channel, which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
 
