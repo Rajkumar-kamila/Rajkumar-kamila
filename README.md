@@ -25,7 +25,7 @@ I create tech content, mostly about Web Development , **but** I also talk about 
 
 
 <!--
-**catalinpit/catalinpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
