@@ -12,7 +12,7 @@ I create tech content, mostly about Web Development , **but** I also talk about 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="Git" width="50" height="50"/>
 
 ---
 
